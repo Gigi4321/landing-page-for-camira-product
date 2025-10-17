@@ -1,0 +1,160 @@
+.main-color-text{
+    color:#6a3e68;
+}
+.red-text{
+    color:#f54900 !important;
+
+}
+table tbody img{
+    width:24px !important;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right:4px;
+}
+
+table tfoot img{
+    width:20px !important;
+}
+table{
+border-collapse: collapse;
+width : 100%;
+background-color: white;
+}
+.sec-col{
+    background-color: rgba(255, 207, 253,.3);
+    color:#6a3e68;
+    border-bottom:#ffcffd 1px solid !important;
+}
+.sec-col.thead-table{
+    border-radius:12px 12px 0 0;
+}
+.sec-col.tfoot-table{
+    border-radius: 0px 0px 12px 12px;;
+}
+#specifications th{
+    border-bottom:2px solid #dfdfdf;
+}
+#specifications td{
+    border-bottom:1px solid #dfdfdf;
+}
+#specifications .table-container{
+    padding:32px;
+    border-radius: 24px;
+    border:2px solid #dfdfdf;
+    background-color: white;
+}
+
+#specifications tfoot td{
+    border:none;
+}
+#specifications tfoot td.sec-col{
+    border-bottom: none !important;
+}
+#specifications thead th,#specifications tfoot td{
+    padding : 24px 16px;
+}
+table thead .heading{
+    font-size: 18px;
+    font-weight: 600;
+    margin:0px 0px 8px;
+}
+table thead .sub-heading{
+    font-size: 14px;
+    font-weight: 700;
+}
+#specifications td{
+    padding:16px;
+    text-align: center;
+}
+#specifications .first-col{
+    text-align: left;
+}
+
+#specifications table tbody td.sec-col .table-label{
+    padding:8px 16px;
+    background-color: #e886e3;
+    color:white;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    border-radius: 50px;
+    display: inline;
+}
+#specifications table tfoot tr td.bold{
+    font-weight: 600;
+    font-size: 18px;
+}
+#specifications table tfoot tr td.bold{
+    font-weight: 600;
+    font-size: 16px;
+}
+
+#specifications .bold-price1{
+    font-size: 24px !important;
+    font-weight: 700 !important;
+}
+#specifications .bold-price2{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+}
+.heading{
+    margin:0 0 64px;
+    h2{
+       font-size: 36px;
+       font-weight: 700;
+       color:#1B2533;
+       text-align: center;
+       margin:0 0 16px;
+       span{
+           color:#6a3e68 !important;
+       }
+    }
+    p{
+        font-size: 20px;
+        font-weight: 400;
+        color:#445164;
+        text-align: center;
+        margin:0;
+    }
+}
+#specifications .winner-container img{
+    width:24px;
+    height:24px;
+    float:left;
+    margin:8px 12px 0 0;
+}
+#specifications .winner-container .h-winner{
+    font-size: 18px;
+    font-weight: 700;
+    color:#00a63e;
+    margin:0px 0 4px;
+}
+#specifications .winner-container .p-winner{
+    font-size: 14px;
+    font-weight: 400;
+    color:#00a63e;
+    margin:0px;
+    
+}
+#specifications .winner-container{
+    padding:16px 32px;
+    border: 1px solid #dfdfdf;
+    border-radius: 16px;
+    margin:auto;
+    display: inline-block;
+    background-color: white;
+}
+#specifications .winner{
+    text-align: center;
+    margin-top: 48px;
+    
+}
+#specifications .winner-container .winner-text{
+    float:left;
+}
+section#specifications{
+    padding: 80px 24px 80px;
+    background-color: #fdf7fd;
+}
+
+

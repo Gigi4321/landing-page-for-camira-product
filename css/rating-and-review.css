@@ -1,0 +1,295 @@
+/* *BEGINING OF LEFT CONTNET */
+#rating-and-review .left-content .top-section .h-top-content {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 60px;
+  margin: 0 0 8px;
+  text-align: center;
+}
+#rating-and-review .left-content .top-section .p-top-content {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0 0 8px;
+  text-align: center;
+  margin: 0;
+  color: #445164;
+}
+#rating-and-review .left-content .top-section .stars img {
+  width: 20px;
+  height: 20px;
+  margin: 0px 4px 0 0;
+  text-align: center;
+}
+#rating-and-review .left-content .top-section .stars {
+  text-align: center;
+  margin: 0px 0px 8px 0px;
+}
+#rating-and-review .left-content .middle-section .rating-container span {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  margin: 0 12px 0 0;
+  float: left;
+}
+#rating-and-review .left-content .middle-section .rate-container .rating-bar {
+  /* width:100%; */
+  border-radius: 50px;
+  background-color: #e5e7ea;
+  height: 12px;
+  margin: 4px 12px 0 0;
+  position: relative;
+  float: left;
+}
+#rating-and-review
+  .left-content
+  .middle-section
+  .rate-container
+  .rating-fill-bar {
+  border-radius: 50px;
+  background-color: #f3b000;
+  height: 12px;
+  margin: 0 12px 0 0;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+#rating-and-review
+  .left-content
+  .middle-section
+  .rate-container
+  .rating-fill-bar.one {
+  width: 78%;
+}
+#rating-and-review
+  .left-content
+  .middle-section
+  .rate-container
+  .rating-fill-bar.two {
+  width: 15%;
+}
+#rating-and-review
+  .left-content
+  .middle-section
+  .rate-container
+  .rating-fill-bar.three {
+  width: 5%;
+}
+#rating-and-review
+  .left-content
+  .middle-section
+  .rate-container
+  .rating-fill-bar.four {
+  width: 1.5%;
+}
+#rating-and-review
+  .left-content
+  .middle-section
+  .rate-container
+  .rating-fill-bar.five {
+  width: 0.5%;
+}
+
+.clear-fix {
+  clear: both;
+}
+#rating-and-review .left-content .middle-section span.star-rate {
+  width: 15%;
+  float: left;
+  text-align: center;
+}
+#rating-and-review .left-content .middle-section .rating-bar {
+  float: left;
+  width: 69%;
+  text-align: center;
+}
+#rating-and-review .left-content .middle-section span.percent-rate {
+  float: right;
+  width: 10%;
+  text-align: center;
+}
+#rating-and-review .left-content .middle-section .rate-container {
+  padding: 8px 0;
+}
+#rating-and-review .bottom-section .h-bottom-section {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  margin: 0;
+  text-align: center;
+}
+#rating-and-review .bottom-section .p-bottom-section {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 0;
+  text-align: center;
+  color: #445164;
+}
+#rating-and-review .bottom-section .left,
+#rating-and-review .bottom-section .right {
+  width: 50%;
+  float: left;
+}
+#rating-and-review .left-content {
+  width: 100%;
+  padding: 32px;
+  border: 2px solid #e7e7e9;
+  border-radius: 24px;
+  box-sizing: border-box;
+}
+
+#rating-and-review .left-content .top-section {
+  padding: 0px 0px 32px 0;
+}
+#rating-and-review .left-content .middle-section {
+  padding: 0px 0px 32px 0;
+  border-bottom: 1px solid #e7e7e9;
+}
+#rating-and-review .left-content .bottom-section {
+  padding: 32px 0px 0px 0;
+}
+/***************************/
+/* *ENDING OF LEFT CONTNET */
+/* *BEGIN OF RIGHT CONTENT */
+/***************************/
+#rating-and-review .right-content .top-section .left .profile-pic {
+  width: 56px;
+  height: 56px;
+  border: 1.5px solid #6b3e68;
+  border-radius: 50%;
+  margin: 8px 16px 0 0;
+  float: left;
+
+}
+#rating-and-review .right-content .top-section .left .profile-pic img {
+  width: 100%;
+  border-radius: 50%;
+}
+#rating-and-review .right-content .top-section .left .profile-details h4 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  margin: 0;
+}
+#rating-and-review .right-content .top-section .left .profile-details p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #445164;
+  margin: 0;
+  
+}
+
+#rating-and-review
+  .right-content
+  .top-section
+  .left
+  .profile-details
+  .stars
+  img {
+  width: 16px;
+  height: 16px;
+  margin: 0px 4px 0 0;
+  vertical-align: middle;
+}
+#rating-and-review .right-content .top-section .left .profile-details .stars {
+  display: inline-block;
+}
+#rating-and-review .right-content .top-section .left .profile-details span {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #445164;
+  margin: 0px 0px 0px 4px;
+}
+#rating-and-review .right-content .top-section .left .profile-details {
+  float: left;
+
+}
+#rating-and-review .right-content .top-section .left {
+  float: left;
+  width:50%;
+}
+#rating-and-review .right-content .top-section .right span {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16px;
+  color: #6b3e68;
+  background-color: #ffe4fd;
+  border: 1px solid #6b3e68;
+  border-radius: 50px;
+  padding: 4px 10px;
+  margin: 0px 0px 4px;
+}
+#rating-and-review .right-content .top-section .right p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #445164;
+  margin: 0;
+  text-align: right;
+}
+#rating-and-review .right-content .top-section .right {
+  float: right;
+}
+#rating-and-review .right-content .top-section {
+  margin: 0 0 24px;
+}
+#rating-and-review .right-content .bottom-section p {
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 29px;
+  color: #445164;
+  margin: 0;
+}
+#rating-and-review .right .right-content {
+  padding: 32px;
+  border: 2px solid #e7e7e9;
+  border-radius: 24px;
+  margin: 0px 0px 24px;
+  box-sizing: border-box;
+}
+#rating-and-review .right .cards-container button{
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+    color: #ffffff;
+    background-color: #6b3e68;
+    padding:12px 32px;
+    border:2px solid #6b3e68;
+    border-radius: 50px;
+    cursor:pointer;
+    transition:.3s;
+    
+}
+#rating-and-review .right .cards-container button:hover{
+  border: 2px solid #6b3e68;
+  color:#6b3e68;
+  background-color: white;
+
+}
+#rating-and-review .main-btn{
+    padding:24px 0 0 0;
+    text-align: center;
+    width: 100%;
+}
+
+#rating-and-review .right .cards-container {
+  width: 100%;
+}
+#rating-and-review > .right {
+  float: right;
+  width: 65%;
+}
+#rating-and-review {
+  box-sizing: border-box;
+  padding: 80px 24px;;
+  position:relative;
+}
+#rating-and-review > .left {
+  width: 30%;
+  float: left;
+  position:sticky;
+  top:73px;
+}
